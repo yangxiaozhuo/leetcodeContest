@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,32 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19de3292-8917-4b67-9f57-80225a725ecf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/weekly-contest-317/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-317/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-317/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-317/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-318/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-318/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-318/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-318/src/Main04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-317/Main01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-317/Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main01$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main01.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main02$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main03$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main04$Solution.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weekly-contest-316/src/Main01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weekly-contest-317/src/Main01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weekly-contest-318/src/Main01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weekly-contest-318/src/Main02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weekly-contest-318/src/Main03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../weekly-contest-318/src/Main04.java" beforeDir="false" />
-    </list>
+    <list default="true" id="19de3292-8917-4b67-9f57-80225a725ecf" name="Default Changelist" comment="89双周赛记录，整体格式调整" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,35 +58,53 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/weekly-contest-317/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/biweekly-contest-89/src" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\project\IDEA_project\likou\2022-10\biweekly-contest-89\src" />
+      <recent name="G:\project\IDEA_project\likou\2022-10\weekly-contest-315\src" />
+      <recent name="G:\project\IDEA_project\likou\2022-10\weekly-contest-316\src" />
+      <recent name="G:\project\IDEA_project\likou\2022-10\biweekly-contest-90\src" />
       <recent name="G:\project\IDEA_project\likou\2022-10\weekly-contest-317\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main03">
-    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main03 (1)">
+    <configuration name="Main01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main01" />
-      <module name="weekly-contest-317" />
+      <module name="biweekly-contest-89" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main02" />
+      <module name="weekly-contest-315" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main02" />
-      <module name="weekly-contest-317" />
+      <module name="biweekly-contest-89" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main03" />
+      <module name="biweekly-contest-89" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main03" />
-      <module name="weekly-contest-317" />
+      <module name="weekly-contest-315" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -126,9 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main03" />
-        <item itemvalue="Application.Main01" />
+        <item itemvalue="Application.Main03 (1)" />
         <item itemvalue="Application.Main02" />
+        <item itemvalue="Application.Main01 (1)" />
+        <item itemvalue="Application.Main03" />
+        <item itemvalue="Application.Main02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -140,8 +138,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667713242226</updated>
-      <workItem from="1667713243288" duration="631000" />
+      <workItem from="1667713243288" duration="5648000" />
     </task>
+    <task id="LOCAL-00001" summary="318周赛记录">
+      <created>1667714347943</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667714347943</updated>
+    </task>
+    <task id="LOCAL-00002" summary="90双周赛记录">
+      <created>1667714889121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667714889122</updated>
+    </task>
+    <task id="LOCAL-00003" summary="316周赛记录">
+      <created>1667715641333</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667715641333</updated>
+    </task>
+    <task id="LOCAL-00004" summary="315周赛记录">
+      <created>1667716955299</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667716955299</updated>
+    </task>
+    <task id="LOCAL-00005" summary="89双周赛记录，整体格式调整">
+      <created>1667717761089</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667717761089</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,30 +192,50 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="318周赛记录" />
+    <MESSAGE value="90双周赛记录" />
+    <MESSAGE value="316周赛记录" />
+    <MESSAGE value="315周赛记录" />
+    <MESSAGE value="89双周赛记录，整体格式调整" />
+    <option name="LAST_COMMIT_MESSAGE" value="89双周赛记录，整体格式调整" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1892" y="-29" key="#Project_Structure" timestamp="1667713264158">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
     <state x="-1892" y="-29" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713264158" />
-    <state width="1224" height="207" key="GridCell.Tab.0.bottom" timestamp="1667713727199">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state width="1224" height="207" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="1224" height="207" key="GridCell.Tab.0.center" timestamp="1667713727199">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state width="1224" height="207" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="1224" height="207" key="GridCell.Tab.0.left" timestamp="1667713727199">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state width="1224" height="207" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="1224" height="207" key="GridCell.Tab.0.right" timestamp="1667713727199">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state width="1224" height="207" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state x="-1962" y="6" key="new project wizard" timestamp="1667713261517">
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom" timestamp="1667717477786">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state x="-1962" y="6" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713261517" />
+    <state width="2005" height="298" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667717477786" />
+    <state width="1224" height="207" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
+    <state width="2005" height="298" key="GridCell.Tab.0.center" timestamp="1667717477786">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667717477786" />
+    <state width="1224" height="207" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
+    <state width="2005" height="298" key="GridCell.Tab.0.left" timestamp="1667717477785">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667717477785" />
+    <state width="1224" height="207" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
+    <state width="2005" height="298" key="GridCell.Tab.0.right" timestamp="1667717477786">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="298" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667717477786" />
+    <state width="1224" height="207" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
+    <state x="-2055" y="-156" key="SettingsEditor" timestamp="1667718912746">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-2055" y="-156" key="SettingsEditor/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667718912746" />
+    <state x="-1943" y="2" key="Vcs.Push.Dialog.v2" timestamp="1667718927079">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-1943" y="2" key="Vcs.Push.Dialog.v2/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667718927079" />
+    <state x="-1962" y="6" key="new project wizard" timestamp="1667716984975">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-1962" y="6" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667716984975" />
   </component>
 </project>

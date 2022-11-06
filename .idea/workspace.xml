@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34fd4337-dd26-41ff-8a5b-9450befff402" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2022-10/biweekly-contest-89/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-10/biweekly-contest-89/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-10/biweekly-contest-89/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-10/biweekly-contest-89/src/Main04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022-10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-10/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\program\apache-maven-3.8.5\repository" />
+        <option name="mavenHome" value="F:\program\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\program\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H9d3VbbbdflzT3tiw7SXtjtY9Y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1496945" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main01" />
+      <module name="weekly-contest-317" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main01" />
+      <module name="weekly-contest-318" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main02" />
+      <module name="weekly-contest-318" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main03" />
+      <module name="weekly-contest-318" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main04" />
+      <module name="weekly-contest-318" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34fd4337-dd26-41ff-8a5b-9450befff402" name="Default Changelist" comment="" />
+      <created>1667701035071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667701035071</updated>
+      <workItem from="1667701036296" duration="207000" />
+      <workItem from="1667701272563" duration="9155000" />
+      <workItem from="1667711023338" duration="3789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="405" y="0" key="#Project_Structure" timestamp="1667701404298">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="-2020" y="-29" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667701085807" />
+    <state x="405" y="0" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667701404298" />
+    <state width="2005" height="194" key="GridCell.Tab.0.bottom" timestamp="1667706709463">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="194" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706709463" />
+    <state width="2005" height="194" key="GridCell.Tab.0.center" timestamp="1667706709462">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="194" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706709462" />
+    <state width="2005" height="194" key="GridCell.Tab.0.left" timestamp="1667706709462">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="194" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706709462" />
+    <state width="2005" height="194" key="GridCell.Tab.0.right" timestamp="1667706709462">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="194" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706709462" />
+    <state width="2005" height="255" key="GridCell.Tab.1.bottom" timestamp="1667706693892">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="255" key="GridCell.Tab.1.bottom/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706693892" />
+    <state width="2005" height="255" key="GridCell.Tab.1.center" timestamp="1667706693892">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="255" key="GridCell.Tab.1.center/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706693892" />
+    <state width="2005" height="255" key="GridCell.Tab.1.left" timestamp="1667706693892">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="255" key="GridCell.Tab.1.left/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706693892" />
+    <state width="2005" height="255" key="GridCell.Tab.1.right" timestamp="1667706693892">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state width="2005" height="255" key="GridCell.Tab.1.right/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706693892" />
+    <state x="-2020" y="-29" key="SettingsEditor" timestamp="1667701292125">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-2020" y="-29" key="SettingsEditor/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667701292125" />
+    <state x="-2175" y="42" key="new project wizard" timestamp="1667701289336">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-2175" y="42" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667701289336" />
+    <state x="-1873" y="-42" width="672" height="678" key="search.everywhere.popup" timestamp="1667705824359">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-1873" y="-42" width="672" height="678" key="search.everywhere.popup/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667705824359" />
+  </component>
+</project>

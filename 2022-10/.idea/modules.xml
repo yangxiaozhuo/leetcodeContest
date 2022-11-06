@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/biweekly-contest-89/biweekly-contest-89.iml" filepath="$PROJECT_DIR$/biweekly-contest-89/biweekly-contest-89.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biweekly-contest-90/biweekly-contest-90.iml" filepath="$PROJECT_DIR$/biweekly-contest-90/biweekly-contest-90.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekly-contest-315/weekly-contest-315.iml" filepath="$PROJECT_DIR$/weekly-contest-315/weekly-contest-315.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekly-contest-316/weekly-contest-316.iml" filepath="$PROJECT_DIR$/weekly-contest-316/weekly-contest-316.iml" />
       <module fileurl="file://$PROJECT_DIR$/weekly-contest-317/weekly-contest-317.iml" filepath="$PROJECT_DIR$/weekly-contest-317/weekly-contest-317.iml" />
     </modules>
   </component>
