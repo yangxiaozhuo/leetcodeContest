@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/weekly-contest-316/weekly-contest-316.iml" filepath="$PROJECT_DIR$/weekly-contest-316/weekly-contest-316.iml" />
       <module fileurl="file://$PROJECT_DIR$/weekly-contest-317/weekly-contest-317.iml" filepath="$PROJECT_DIR$/weekly-contest-317/weekly-contest-317.iml" />
-      <module fileurl="file://$PROJECT_DIR$/weekly-contest-318/weekly-contest-318.iml" filepath="$PROJECT_DIR$/weekly-contest-318/weekly-contest-318.iml" />
     </modules>
   </component>
 </project>

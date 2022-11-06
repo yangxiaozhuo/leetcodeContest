@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="02403efd-51cf-437e-8598-d1b81570d8a1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/weekly-contest-318/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-318/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-318/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-318/src/Main04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-317/Main01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-317/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main01$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main02$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main03$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main04$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/weekly-contest-318/Main04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weekly-contest-316/src/Main01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weekly-contest-317/src/Main01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weekly-contest-318/src/Main01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weekly-contest-318/src/Main02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weekly-contest-318/src/Main03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../weekly-contest-318/src/Main04.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\program\apache-maven-3.8.5\repository" />
+        <option name="mavenHome" value="F:\program\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="F:\program\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2HA1Hxsy0nvSqF0pGY0MkCrByBJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/weekly-contest-318/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15332031" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\project\IDEA_project\likou\2022-11\weekly-contest-318\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02403efd-51cf-437e-8598-d1b81570d8a1" name="Default Changelist" comment="" />
+      <created>1667712991088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667712991088</updated>
+      <workItem from="1667712992163" duration="248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-2295" y="-33" key="#Project_Structure" timestamp="1667713182063">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-2295" y="-33" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713182063" />
+    <state x="-1995" y="99" key="FileChooserDialogImpl" timestamp="1667713129401">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-1995" y="99" key="FileChooserDialogImpl/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713129401" />
+    <state x="-2136" y="96" key="NewModule_or_Project.wizard" timestamp="1667713135797">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-2136" y="96" key="NewModule_or_Project.wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713135797" />
+    <state x="-2560" y="-29" key="SettingsEditor" timestamp="1667713176767">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-2560" y="-29" key="SettingsEditor/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713176767" />
+    <state x="-1759" y="42" key="new project wizard" timestamp="1667713239562">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-1759" y="42" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713239562" />
+  </component>
+</project>
