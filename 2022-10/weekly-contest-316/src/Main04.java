@@ -1,8 +1,10 @@
-//2449. 使数组相似的最少操作次数
-
 import java.util.Arrays;
 
 /**
+ * 2449. 使数组相似的最少操作次数
+ *
+ * @author yangxiaozhuo
+ * @date 2022/10/23
  * 给你两个正整数数组nums 和target，两个数组长度相等。
  * 在一次操作中，你可以选择两个 不同的下标i 和j，其中0 <= i, j < nums.length，并且：
  * 令nums[i] = nums[i] + 2且

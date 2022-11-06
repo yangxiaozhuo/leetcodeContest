@@ -1,6 +1,8 @@
-//2443. 反转之后的数字和
-
 /**
+ * 2443. 反转之后的数字和
+ *
+ * @author yangxiaozhuo
+ * @date 2022/10/16
  * 给你一个 非负 整数 num 。如果存在某个 非负 整数 k 满足 k + reverse(k) = num  ，则返回 true ；否则，返回 false 。
  * reverse(k) 表示 k 反转每个数位后得到的数字。
  * <p>

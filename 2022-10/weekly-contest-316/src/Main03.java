@@ -1,8 +1,10 @@
-//2448. 使数组相等的最小开销
-
 import java.util.Arrays;
 
 /**
+ * 2448. 使数组相等的最小开销
+ *
+ * @author yangxiaozhuo
+ * @date 2022/10/23
  * 给你两个下标从 0开始的数组nums 和cost，分别包含n个正整数。
  * 你可以执行下面操作 任意次：
  * 将nums中 任意元素增加或者减小 1。

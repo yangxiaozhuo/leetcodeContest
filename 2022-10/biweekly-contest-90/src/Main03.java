@@ -1,10 +1,12 @@
-//2453. 摧毁一系列目标
-
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 
 /**
+ * 2453. 摧毁一系列目标
+ *
+ * @author yangxiaozhuo
+ * @date 2022/10/29
  * 给你一个下标从 0开始的数组nums，它包含若干正整数，表示数轴上你需要摧毁的目标所在的位置。同时给你一个整数space。
  * 你有一台机器可以摧毁目标。给机器 输入nums[i]，这台机器会摧毁所有位置在nums[i] + c * space的目标，其中c是任意非负整数。你想摧毁nums中 尽可能多的目标。
  * 请你返回在摧毁数目最多的前提下，nums[i]的 最小值。
