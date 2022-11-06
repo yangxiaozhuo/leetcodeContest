@@ -22,7 +22,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19de3292-8917-4b67-9f57-80225a725ecf" name="Default Changelist" comment="89双周赛记录，整体格式调整" />
+    <list default="true" id="19de3292-8917-4b67-9f57-80225a725ecf" name="Default Changelist" comment="89双周赛记录，整体格式调整">
+      <change afterPath="$PROJECT_DIR$/biweekly-contest-88/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly-contest-88/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly-contest-88/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly-contest-88/src/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-313/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-313/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-313/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-313/src/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-314/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-314/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-314/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-314/src/Main04.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +75,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -73,38 +86,38 @@
       <recent name="G:\project\IDEA_project\likou\2022-10\weekly-contest-317\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main03 (1)">
+  <component name="RunManager" selected="Application.Main04 (1)">
     <configuration name="Main01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main01" />
-      <module name="biweekly-contest-89" />
+      <module name="weekly-contest-313" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main02 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main02" />
-      <module name="weekly-contest-315" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main02" />
-      <module name="biweekly-contest-89" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main03 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main03 (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main03" />
-      <module name="biweekly-contest-89" />
+      <module name="weekly-contest-313" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main03" />
-      <module name="weekly-contest-315" />
+      <module name="weekly-contest-314" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main04 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main04" />
+      <module name="biweekly-contest-88" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main04" />
+      <module name="weekly-contest-313" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -122,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main03 (1)" />
-        <item itemvalue="Application.Main02" />
+        <item itemvalue="Application.Main04 (1)" />
+        <item itemvalue="Application.Main04" />
+        <item itemvalue="Application.Main03 (2)" />
         <item itemvalue="Application.Main01 (1)" />
         <item itemvalue="Application.Main03" />
-        <item itemvalue="Application.Main02 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667713242226</updated>
-      <workItem from="1667713243288" duration="5648000" />
+      <workItem from="1667713243288" duration="9915000" />
     </task>
     <task id="LOCAL-00001" summary="318周赛记录">
       <created>1667714347943</created>
@@ -205,37 +218,41 @@
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
     <state x="-1892" y="-29" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713264158" />
-    <state width="2005" height="298" key="GridCell.Tab.0.bottom" timestamp="1667717477786">
+    <state width="1585" height="204" key="GridCell.Tab.0.bottom" timestamp="1667724254311">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state width="2005" height="298" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667717477786" />
+    <state width="1585" height="204" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667724254311" />
     <state width="1224" height="207" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="2005" height="298" key="GridCell.Tab.0.center" timestamp="1667717477786">
+    <state width="1585" height="204" key="GridCell.Tab.0.center" timestamp="1667724254310">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state width="2005" height="298" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667717477786" />
+    <state width="1585" height="204" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667724254310" />
     <state width="1224" height="207" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="2005" height="298" key="GridCell.Tab.0.left" timestamp="1667717477785">
+    <state width="1585" height="204" key="GridCell.Tab.0.left" timestamp="1667724254310">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state width="2005" height="298" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667717477785" />
+    <state width="1585" height="204" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667724254310" />
     <state width="1224" height="207" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="2005" height="298" key="GridCell.Tab.0.right" timestamp="1667717477786">
+    <state width="1585" height="204" key="GridCell.Tab.0.right" timestamp="1667724254310">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state width="2005" height="298" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667717477786" />
+    <state width="1585" height="204" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667724254310" />
     <state width="1224" height="207" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state x="-2055" y="-156" key="SettingsEditor" timestamp="1667718912746">
+    <state x="-2092" y="-29" key="SettingsEditor" timestamp="1667723921833">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state x="-2055" y="-156" key="SettingsEditor/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667718912746" />
+    <state x="-2092" y="-29" key="SettingsEditor/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667723921833" />
     <state x="-1943" y="2" key="Vcs.Push.Dialog.v2" timestamp="1667718927079">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
     <state x="-1943" y="2" key="Vcs.Push.Dialog.v2/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667718927079" />
-    <state x="-1962" y="6" key="new project wizard" timestamp="1667716984975">
+    <state x="-2067" y="-41" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1667723987974">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state x="-1962" y="6" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667716984975" />
+    <state x="-2067" y="-41" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667723987974" />
+    <state x="-1962" y="6" key="new project wizard" timestamp="1667723920240">
+      <screen x="-2560" y="-283" width="2048" height="1104" />
+    </state>
+    <state x="-1962" y="6" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667723920240" />
   </component>
 </project>
