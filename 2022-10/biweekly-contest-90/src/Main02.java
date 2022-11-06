@@ -1,70 +1,51 @@
-//2456. 最流行的视频创作者
+//2452. 距离字典两次编辑以内的单词
 
 import java.util.*;
 
 /**
- * 给你两个字符串数组 creators 和 ids ，和一个整数数组 views ，所有数组的长度都是 n 。平台上第 i 个视频者是 creator[i] ，视频分配的 id 是 ids[i] ，且播放量为 views[i] 。
- * 视频创作者的 流行度 是该创作者的 所有 视频的播放量的 总和 。请找出流行度 最高 创作者以及该创作者播放量 最大 的视频的 id 。
- * 如果存在多个创作者流行度都最高，则需要找出所有符合条件的创作者。
- * 如果某个创作者存在多个播放量最高的视频，则只需要找出字典序最小的 id 。
- * 返回一个二维字符串数组 answer ，其中 answer[i] = [creatori, idi] 表示 creatori 的流行度 最高 且其最流行的视频 id 是 idi ，可以按任何顺序返回该结果。
+ * 给你两个字符串数组queries 和dictionary。数组中所有单词都只包含小写英文字母，且长度都相同。
+ * 一次 编辑中，你可以从 queries中选择一个单词，将任意一个字母修改成任何其他字母。从queries中找到所有满足以下条件的字符串：不超过两次编辑内，字符串与dictionary中某个字符串相同。
+ * 请你返回queries中的单词列表，这些单词距离dictionary中的单词编辑次数不超过两次。单词返回的顺序需要与queries中原本顺序相同。
  *
  * 示例 1：
- * 输入：creators = ["alice","bob","alice","chris"], ids = ["one","two","three","four"], views = [5,10,5,4]
- * 输出：[["alice","one"],["bob","two"]]
+ * 输入：queries = ["word","note","ants","wood"], dictionary = ["wood","joke","moat"]
+ * 输出：["word","note","wood"]
  * 解释：
- * alice 的流行度是 5 + 5 = 10 。
- * bob 的流行度是 10 。
- * chris 的流行度是 4 。
- * alice 和 bob 是流行度最高的创作者。
- * bob 播放量最高的视频 id 为 "two" 。
- * alice 播放量最高的视频 id 是 "one" 和 "three" 。由于 "one" 的字典序比 "three" 更小，所以结果中返回的 id 是 "one" 。
+ * - 将 "word" 中的 'r' 换成 'o' ，得到 dictionary 中的单词 "wood" 。
+ * - 将 "note" 中的 'n' 换成 'j' 且将 't' 换成 'k' ，得到 "joke" 。
+ * - "ants" 需要超过 2 次编辑才能得到 dictionary 中的单词。
+ * - "wood" 不需要修改（0 次编辑），就得到 dictionary 中相同的单词。
+ * 所以我们返回 ["word","note","wood"] 。
  */
 public class Main02 {
     public static void main(String[] args) {
-        String[] creators = {"alice","bob","alice","chris"};
-        String[] ids = {"one","two","three","four"};
-        int[] views = {5,10,5,4};
+        String[] queries = {"word","note","ants","wood"};
+        String[] dictionary = {"wood","joke","moat"};
         Solution solution = new Solution();
-        System.out.println(solution.mostPopularCreator(creators, ids, views));
+        System.out.println(solution.twoEditWords(queries, dictionary));
     }
     static class Solution {
-        public List<List<String>> mostPopularCreator(String[] creators, String[] ids, int[] views) {
-            List<List<String>> res = new ArrayList<>();
-            PriorityQueue<Object[]> queue = new PriorityQueue<>((o1, o2) -> (int)o2[1]-(int)o1[1]);
-            HashMap<String, Integer> map = new HashMap<>();
-            for (int i = 0; i < views.length; i++) {
-                map.put(creators[i], map.getOrDefault(creators[i], 0) + views[i]);
-            }
-            for (Map.Entry<String,Integer> entry : map.entrySet()) {
-                queue.add(new Object[]{entry.getKey(),entry.getValue()});
-            }
-            HashSet<String> set = new HashSet<>();
-            Object[] poll = queue.poll();
-            int max = (int)poll[1];
-            set.add((String) poll[0]);
-            while (!queue.isEmpty() && (int)queue.peek()[1] == max) {
-                poll = queue.poll();
-                set.add((String) poll[0]);
-            }
-            HashMap<String, String[]> resmap = new HashMap<>();
-            for (int i = 0; i < creators.length; i++) {
-                if (set.contains(creators[i])) {
-                    if (resmap.containsKey(creators[i])) {
-                        String[] strings = resmap.get(creators[i]);
-                        if (views[i] > Integer.parseInt(strings[1]) || (views[i] == Integer.parseInt(strings[1]) && ids[i].compareTo(strings[0]) < 0)) {
-                            resmap.put(creators[i],new String[]{ids[i],""+views[i]});
+        public List<String> twoEditWords(String[] queries, String[] dictionary) {
+            List<String> res = new ArrayList<>();
+            for (int i = 0; i < queries.length; i++) {
+                for (int j = 0; j < dictionary.length; j++) {
+                    String query = queries[i];
+                    String s = dictionary[j];
+                    int time = 0;
+                    for (int k = 0; k < query.length(); k++) {
+                        int t = query.charAt(k) - s.charAt(k);
+                        if (t != 0) {
+                            time++;
+                            if (time == 3) {
+                                break;
+                            }
                         }
-                    } else {
-                        resmap.put(creators[i],new String[]{ids[i],""+views[i]});
+                    }
+                    if (time <= 2) {
+                        res.add(query);
+                        break;
                     }
                 }
-            }
-            for (Map.Entry<String,String[]> entry : resmap.entrySet()) {
-                ArrayList<String> strings = new ArrayList<>();
-                strings.add(entry.getKey());
-                strings.add(entry.getValue()[0]);
-                res.add(new ArrayList<>(strings));
             }
             return res;
         }

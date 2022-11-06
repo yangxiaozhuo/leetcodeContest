@@ -1,55 +1,51 @@
-//2457. 美丽整数的最小增量
+//2453. 摧毁一系列目标
+
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
 
 /**
- * 给你两个正整数 n 和 target 。
- * 如果某个整数每一位上的数字相加小于或等于 target ，则认为这个整数是一个 美丽整数 。
- * 找出并返回满足 n + x 是 美丽整数 的最小非负整数 x 。生成的输入保证总可以使 n 变成一个美丽整数。
+ * 给你一个下标从 0开始的数组nums，它包含若干正整数，表示数轴上你需要摧毁的目标所在的位置。同时给你一个整数space。
+ * 你有一台机器可以摧毁目标。给机器 输入nums[i]，这台机器会摧毁所有位置在nums[i] + c * space的目标，其中c是任意非负整数。你想摧毁nums中 尽可能多的目标。
+ * 请你返回在摧毁数目最多的前提下，nums[i]的 最小值。
  *
  * 示例 1：
- * 输入：n = 16, target = 6
- * 输出：4
- * 解释：最初，n 是 16 ，且其每一位数字的和是 1 + 6 = 7 。在加 4 之后，n 变为 20 且每一位数字的和变成 2 + 0 = 2 。可以证明无法加上一个小于 4 的非负整数使 n 变成一个美丽整数。
+ * 输入：nums = [3,7,8,1,1,5], space = 2
+ * 输出：1
+ * 解释：如果我们输入 nums[3] ，我们可以摧毁位于 1,3,5,7,9,... 这些位置的目标。
+ * 这种情况下， 我们总共可以摧毁 5 个目标（除了 nums[2]）。
+ * 没有办法摧毁多于 5 个目标，所以我们返回 nums[3] 。
  */
 public class Main03 {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        System.out.println(solution.makeIntegerBeautiful(16,6));
+        int[] nums = new int[]{3,7,8,1,1,5};
+        System.out.println(solution.destroyTargets(nums,2));
     }
     static class Solution {
-        public long makeIntegerBeautiful(long n, int target) {
-            StringBuilder sb = new StringBuilder();
-            sb.append(n);
-            int sum = 0;
-            for (int i = 0; i < sb.length(); i++) {
-                sum = sum + (int)sb.charAt(i) - '0';
+        public int destroyTargets(int[] nums, int space) {
+            HashMap<Integer, Integer> map = new HashMap<>();
+            for (int i = 0; i < nums.length; i++) {
+                map.put(nums[i] % space, map.getOrDefault(nums[i] % space, 0) + 1);
             }
-            if (sum <= target) {
-                return 0;
-            }
-            sum = 0;
-            boolean flag = true;
-            StringBuilder substring = new StringBuilder();
-            for (int i = 0; i < sb.length(); i++) {
-                sum = sum + (int)(sb.charAt(i) -'0');
-                if(sum > target - 1) {
-                    flag = false;
-                    substring = new StringBuilder(sb.substring(0, i));
-                    break;
+            HashSet<Integer> set = new HashSet<>();
+            int max = 0;
+            for (Map.Entry<Integer,Integer> entry : map.entrySet()) {
+                if (entry.getValue() > max) {
+                    max = entry.getValue();
+                    set.clear();
+                    set.add(entry.getKey());
+                } else if(entry.getValue() == max) {
+                    set.add(entry.getKey());
                 }
             }
-            if (flag) {
-                return 0;
+            int res = Integer.MAX_VALUE;
+            for (int i = 0; i < nums.length; i++) {
+                if(set.contains(nums[i] % space)) {
+                    res = Math.min(res, nums[i]);
+                }
             }
-            long max;
-            if (substring.length() > 0) {
-                max = Long.parseLong(substring.toString()) + 1;
-            } else {
-                max = 1;
-            }
-            while (max < n) {
-                max = max * 10;
-            }
-            return max - n;
+            return res;
         }
     }
 }

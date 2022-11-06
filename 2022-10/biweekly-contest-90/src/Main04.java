@@ -1,57 +1,77 @@
-//2458. 移除子树后的二叉树高度
+//2454. 下一个更大元素 IV
 
-import java.util.HashMap;
+import java.util.Arrays;
+import java.util.Map;
+import java.util.TreeMap;
 
 /**
- * 给你一棵 二叉树 的根节点 root ，树中有 n 个节点。每个节点都可以被分配一个从 1 到 n 且互不相同的值。另给你一个长度为 m 的数组 queries 。
- * 你必须在树上执行 m 个 独立 的查询，其中第 i 个查询你需要执行以下操作：
- * 从树中 移除 以 queries[i] 的值作为根节点的子树。题目所用测试用例保证 queries[i] 不 等于根节点的值。
- * 返回一个长度为 m 的数组 answer ，其中 answer[i] 是执行第 i 个查询后树的高度。
- * 注意：
- * 查询之间是独立的，所以在每个查询执行后，树会回到其 初始 状态。
- * 树的高度是从根到树中某个节点的 最长简单路径中的边数 。
+ * 给你一个下标从 0开始的非负整数数组nums。对于nums中每一个整数，你必须找到对应元素的第二大整数。
+ * 如果nums[j]满足以下条件，那么我们称它为nums[i]的第二大整数：
+ * j > i
+ * nums[j] > nums[i]
+ * 恰好存在 一个k满足 i < k < j且nums[k] > nums[i]。
+ * 如果不存在nums[j]，那么第二大整数为-1。
+ * 比方说，数组[1, 2, 4, 3]中，1的第二大整数是4，2的第二大整数是3，3 和4的第二大整数是-1。
+ * 请你返回一个整数数组answer，其中answer[i]是nums[i]的第二大整数。
  *
  * 示例 1：
- * 输入：root = [1,3,4,2,null,6,5,null,null,null,null,null,7], queries = [4]
- * 输出：[2]
- * 解释：上图展示了从树中移除以 4 为根节点的子树。
- * 树的高度是 2（路径为 1 -> 3 -> 2）。
+ * 输入：nums = [2,4,0,9,6]
+ * 输出：[9,6,6,-1,-1]
+ * 解释：
+ * 下标为 0 处：2 的右边，4 是大于 2 的第一个整数，9 是第二个大于 2 的整数。
+ * 下标为 1 处：4 的右边，9 是大于 4 的第一个整数，6 是第二个大于 4 的整数。
+ * 下标为 2 处：0 的右边，9 是大于 0 的第一个整数，6 是第二个大于 0 的整数。
+ * 下标为 3 处：右边不存在大于 9 的整数，所以第二大整数为 -1 。
+ * 下标为 4 处：右边不存在大于 6 的整数，所以第二大整数为 -1 。
+ * 所以我们返回 [9,6,6,-1,-1] 。
  */
 public class Main04 {
-    class Solution {
-        public int[] treeQueries(TreeNode root, int[] queries) {
-            HashMap<TreeNode, Integer> treeHeight = new HashMap<>();
-            build(root,treeHeight);
-            int[] ans = new int[treeHeight.size() + 10];
-            treeHeight.put(null, -1);
-            dfs(root,ans,treeHeight,0,0);
-            for (int i = 0; i < queries.length; i++) {
-                queries[i] = ans[queries[i]];
-            }
-            return queries;
-        }
-
-        private void dfs(TreeNode root, int[] ans, HashMap<TreeNode, Integer> treeHeight, int height, int r_height) {
-            if (root == null) {
-                return;
-            }
-            ans[root.val] = r_height;
-            dfs(root.left,ans,treeHeight,height + 1,Math.max(r_height,1+ height + treeHeight.get(root.right)));
-            dfs(root.right,ans,treeHeight,height + 1,Math.max(r_height, 1+height + treeHeight.get(root.left)));
-        }
-
-        private int build(TreeNode root, HashMap<TreeNode, Integer> treeHeight) {
-            if (root == null) {return -1;}
-            int left = build(root.left, treeHeight);
-            int right = build(root.right, treeHeight);
-            int max = Math.max(left, right) + 1;
-            treeHeight.put(root, max);
-            return max;
-        }
+    public static void main(String[] args) {
+        Solution solution = new Solution();
+        int[] nums = new int[]{2, 4, 0, 9, 6};
+        System.out.println(Arrays.toString(solution.secondGreaterElement(nums)));
     }
-    static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
+
+    static class Solution {
+        public int[] secondGreaterElement(int[] nums) {
+            int[] res = new int[nums.length];
+            Arrays.fill(res, -1);
+            if (nums.length < 2) {
+                return res;
+            }
+            TreeMap<Integer, Integer> map = new TreeMap<>();
+            map.put(nums[nums.length - 1], 1);
+            map.put(nums[nums.length - 2], map.getOrDefault(nums[nums.length - 2], 0) + 1);
+            for (int i = nums.length - 3; i >= 0; i--) {
+                Map.Entry<Integer, Integer> entry = map.higherEntry(nums[i]);
+                if (entry == null) {
+                } else {
+                    Map.Entry<Integer, Integer> entry1 = map.higherEntry(entry.getKey());
+                    if (entry1 == null) {
+                        if (entry.getValue() == 1) {
+
+                        } else {
+                            res[i] = entry.getKey();
+                        }
+                    } else {
+                        fun(i, nums, res);
+                    }
+                }
+                map.put(nums[i], map.getOrDefault(nums[i], 0) + 1);
+            }
+            return res;
+        }
+
+        public void fun(int i, int[] nums, int[] res) {
+            int t = 0;
+            for (int j = i + 1; j < nums.length; j++) {
+                if (nums[j] > nums[i]) {
+                    t++;
+                    if (t == 2) {
+                        res[i] = nums[j];
+                    }
+                }
+            }
+        }
     }
 }
