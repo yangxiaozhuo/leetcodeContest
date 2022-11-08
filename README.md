@@ -1,10 +1,13 @@
 # leetcodeContest
 The code of weekly-contest and biweekly-contest of Leetcode.
 
-内容包括从2020年7月1日至今，目前更新到2022年10月1日-2022年11月6日内容。
+The code of the daily question from 2022.08.01 to the present.
 
 
-|     日期时间    |          比赛       | ac题数 |     rank in China      |      rank in the world        |
+内容包括从2020年8月1日至今的周赛、双周赛和每日一题，目前更新到2022年10月1日-2022年11月6日内容。
+
+
+|     日期时间     |          比赛       | ac题数 |     rank in China      |      rank in the world        |
 |:--------------:|:------------------:|:-----:|:----------------------:|:-----------------------------:|
 |2022-11-06 10:30|  weekly-contest-318|**3**/4|**782**  / 5670 in China|**2026**/ 22819 in the world   |
 |2022-10-30 10:30|  weekly-contest-317|**3**/4|**2025** / 5660 in China|**5665**/ 20633 in the world   |

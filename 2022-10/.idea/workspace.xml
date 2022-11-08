@@ -22,20 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19de3292-8917-4b67-9f57-80225a725ecf" name="Default Changelist" comment="89双周赛记录，整体格式调整">
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-88/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-88/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-88/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-88/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-313/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-313/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-313/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-313/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-314/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-314/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-314/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-314/src/Main04.java" afterDir="false" />
-    </list>
+    <list default="true" id="19de3292-8917-4b67-9f57-80225a725ecf" name="Default Changelist" comment="10月每日一题记录" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +48,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2HA1nJAhzYJBnhMuyeXSemHlq5K" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -71,13 +60,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/biweekly-contest-89/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2022-11" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="three" />
+      <recent name="" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\project\IDEA_project\likou\2022-10\biweekly-contest-89\src" />
       <recent name="G:\project\IDEA_project\likou\2022-10\weekly-contest-315\src" />
@@ -122,17 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main04 (1)" />
@@ -151,7 +133,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667713242226</updated>
-      <workItem from="1667713243288" duration="9915000" />
+      <workItem from="1667713243288" duration="10520000" />
+      <workItem from="1667737933171" duration="3100000" />
+      <workItem from="1667782117307" duration="65000" />
     </task>
     <task id="LOCAL-00001" summary="318周赛记录">
       <created>1667714347943</created>
@@ -188,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667717761089</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="10月每日一题记录">
+      <created>1667740445924</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667740445924</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +195,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="318周赛记录" />
@@ -211,37 +203,45 @@
     <MESSAGE value="316周赛记录" />
     <MESSAGE value="315周赛记录" />
     <MESSAGE value="89双周赛记录，整体格式调整" />
-    <option name="LAST_COMMIT_MESSAGE" value="89双周赛记录，整体格式调整" />
+    <MESSAGE value="10月每日一题记录" />
+    <option name="LAST_COMMIT_MESSAGE" value="10月每日一题记录" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1892" y="-29" key="#Project_Structure" timestamp="1667713264158">
-      <screen x="-2560" y="-283" width="2048" height="1104" />
+    <state x="498" y="0" key="#Project_Structure" timestamp="1667737967238">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="-1892" y="-29" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667713264158" />
-    <state width="1585" height="204" key="GridCell.Tab.0.bottom" timestamp="1667724254311">
+    <state x="498" y="0" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667737967238" />
+    <state x="498" y="248" key="FileChooserDialogImpl" timestamp="1667782184306">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="-1896" y="53" key="FileChooserDialogImpl/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667727888177" />
+    <state x="498" y="248" key="FileChooserDialogImpl/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667782184306" />
+    <state width="1585" height="204" key="GridCell.Tab.0.bottom" timestamp="1667727889243">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state width="1585" height="204" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667724254311" />
+    <state width="1585" height="204" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667727889243" />
     <state width="1224" height="207" key="GridCell.Tab.0.bottom/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="1585" height="204" key="GridCell.Tab.0.center" timestamp="1667724254310">
+    <state width="1585" height="204" key="GridCell.Tab.0.center" timestamp="1667727889243">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state width="1585" height="204" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667724254310" />
+    <state width="1585" height="204" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667727889243" />
     <state width="1224" height="207" key="GridCell.Tab.0.center/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="1585" height="204" key="GridCell.Tab.0.left" timestamp="1667724254310">
+    <state width="1585" height="204" key="GridCell.Tab.0.left" timestamp="1667727889243">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state width="1585" height="204" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667724254310" />
+    <state width="1585" height="204" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667727889243" />
     <state width="1224" height="207" key="GridCell.Tab.0.left/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state width="1585" height="204" key="GridCell.Tab.0.right" timestamp="1667724254310">
+    <state width="1585" height="204" key="GridCell.Tab.0.right" timestamp="1667727889243">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
-    <state width="1585" height="204" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667724254310" />
+    <state width="1585" height="204" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667727889243" />
     <state width="1224" height="207" key="GridCell.Tab.0.right/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667713727199" />
-    <state x="-2092" y="-29" key="SettingsEditor" timestamp="1667723921833">
-      <screen x="-2560" y="-283" width="2048" height="1104" />
+    <state x="351" y="0" key="SettingsEditor" timestamp="1667737960147">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="-2092" y="-29" key="SettingsEditor/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667723921833" />
+    <state x="351" y="0" key="SettingsEditor/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667737960147" />
     <state x="-1943" y="2" key="Vcs.Push.Dialog.v2" timestamp="1667718927079">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
@@ -250,9 +250,10 @@
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
     <state x="-2067" y="-41" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667723987974" />
-    <state x="-1962" y="6" key="new project wizard" timestamp="1667723920240">
-      <screen x="-2560" y="-283" width="2048" height="1104" />
+    <state x="356" y="138" key="new project wizard" timestamp="1667737958218">
+      <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="-1962" y="6" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667723920240" />
+    <state x="356" y="138" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667737958218" />
   </component>
 </project>

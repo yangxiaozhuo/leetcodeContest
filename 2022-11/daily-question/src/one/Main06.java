@@ -1,3 +1,5 @@
+package one;
+
 /**
  * 1678. 设计 Goal 解析器
  *
