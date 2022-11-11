@@ -2,21 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34fd4337-dd26-41ff-8a5b-9450befff402" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2022-10/biweekly-contest-88/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/biweekly-contest-88/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/biweekly-contest-88/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/biweekly-contest-88/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/weekly-contest-313/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/weekly-contest-313/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/weekly-contest-313/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/weekly-contest-313/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/weekly-contest-314/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/weekly-contest-314/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/weekly-contest-314/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-10/weekly-contest-314/src/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/biweekly-contest-086/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/biweekly-contest-086/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/biweekly-contest-087/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/biweekly-contest-087/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/biweekly-contest-087/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/biweekly-contest-087/src/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-309/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-309/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-309/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-310/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-310/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-310/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-311/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-311/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-311/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-311/src/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-312/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-312/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-09/weekly-contest-312/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-11/daily-question/src/two/Main11.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022-10/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-10/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2022-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,19 +69,6 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main01" />
       <module name="weekly-contest-317" />
@@ -122,6 +116,8 @@
       <workItem from="1667701036296" duration="207000" />
       <workItem from="1667701272563" duration="9155000" />
       <workItem from="1667711023338" duration="5893000" />
+      <workItem from="1668138331271" duration="63000" />
+      <workItem from="1668138715785" duration="1079000" />
     </task>
     <servers />
   </component>
@@ -134,6 +130,10 @@
     </state>
     <state x="-2020" y="-29" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667701085807" />
     <state x="405" y="0" key="#Project_Structure/-2560.-283.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1667701404298" />
+    <state x="-1804" y="249" key="FileChooserDialogImpl" timestamp="1668138384740">
+      <screen x="-2560" y="-156" width="2048" height="1104" />
+    </state>
+    <state x="-1804" y="249" key="FileChooserDialogImpl/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1668138384740" />
     <state width="2005" height="194" key="GridCell.Tab.0.bottom" timestamp="1667706709463">
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
@@ -166,13 +166,15 @@
       <screen x="-2560" y="-283" width="2048" height="1104" />
     </state>
     <state width="2005" height="255" key="GridCell.Tab.1.right/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667706693892" />
-    <state x="-2020" y="-29" key="SettingsEditor" timestamp="1667701292125">
-      <screen x="-2560" y="-283" width="2048" height="1104" />
+    <state x="-2020" y="98" key="SettingsEditor" timestamp="1668138339547">
+      <screen x="-2560" y="-156" width="2048" height="1104" />
     </state>
+    <state x="-2020" y="98" key="SettingsEditor/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1668138339547" />
     <state x="-2020" y="-29" key="SettingsEditor/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667701292125" />
-    <state x="-2175" y="42" key="new project wizard" timestamp="1667701289336">
-      <screen x="-2560" y="-283" width="2048" height="1104" />
+    <state x="-2175" y="169" key="new project wizard" timestamp="1668138393645">
+      <screen x="-2560" y="-156" width="2048" height="1104" />
     </state>
+    <state x="-2175" y="169" key="new project wizard/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1668138393645" />
     <state x="-2175" y="42" key="new project wizard/-2560.-283.2048.1104/0.0.1536.816@-2560.-283.2048.1104" timestamp="1667701289336" />
     <state x="-1873" y="-42" width="672" height="678" key="search.everywhere.popup" timestamp="1667705824359">
       <screen x="-2560" y="-283" width="2048" height="1104" />
