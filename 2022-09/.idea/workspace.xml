@@ -19,28 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64f160f-e480-448e-85f2-460a1742b1a2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-086/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-086/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-087/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-087/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-087/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-087/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-309/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-309/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-309/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-310/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-310/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-310/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-311/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-311/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-311/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-311/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-312/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-312/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-312/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-11/daily-question/src/two/Main11.java" afterDir="false" />
-    </list>
+    <list default="true" id="f64f160f-e480-448e-85f2-460a1742b1a2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,19 +61,6 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -104,6 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1668138402327</updated>
       <workItem from="1668138403573" duration="1395000" />
+      <workItem from="1668150103438" duration="403000" />
     </task>
     <servers />
   </component>
@@ -120,6 +87,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1627" y="46" key="SettingsEditor" timestamp="1668138490847">
