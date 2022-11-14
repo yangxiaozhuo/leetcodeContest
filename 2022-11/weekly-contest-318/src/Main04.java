@@ -3,7 +3,12 @@ import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.List;
 
-public class Main04 {
+/**
+ * 2460. 没过
+ *
+ * @author yangxiaozhuo
+ * @date 2022/11/06
+ */public class Main04 {
     public static void main(String[] args) {
 //        [9,11,99,101]
 //[[10,1],[7,1],[14,1],[100,1],[96,1],[103,1]]

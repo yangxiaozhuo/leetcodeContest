@@ -1,6 +1,11 @@
 import java.util.Arrays;
 import java.util.PriorityQueue;
-
+/**
+ * 2462. 雇佣 K 位工人的总代价
+ *
+ * @author yangxiaozhuo
+ * @date 2022/11/06
+ */
 public class Main03 {
     public static void main(String[] args) {
         int[] nums = new int[]{31,25,72,79,74,65,84,91,18,59,27,9,81,33,17,58};

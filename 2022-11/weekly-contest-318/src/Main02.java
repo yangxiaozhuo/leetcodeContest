@@ -1,3 +1,9 @@
+/**
+ * 2460. 对数组执行操作
+ *
+ * @author yangxiaozhuo
+ * @date 2022/11/06
+ */
 public class Main02 {
     public static void main(String[] args) {
         int[] nums = new int[]{9,18,10,13,17,9,19,2,1,18};

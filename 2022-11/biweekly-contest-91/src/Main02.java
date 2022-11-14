@@ -1,5 +1,6 @@
 /**
  * 6238. 统计构造好字符串的方案数
+ *
  * @author yangxiaozhuo
  * @date 2022/11/12
  */
@@ -8,6 +9,7 @@ public class Main02 {
         Solution solution = new Solution();
         System.out.println(solution.countGoodStrings(200, 200, 10, 1));
     }
+
     static class Solution {
         public int countGoodStrings(int low, int high, int zero, int one) {
             int[] dp = new int[high + 2];
@@ -22,7 +24,7 @@ public class Main02 {
                 }
             }
             int res = 0;
-            for (int i = low ; i < high + 1; i++) {
+            for (int i = low; i < high + 1; i++) {
                 res = (res + dp[i]) % mod;
             }
             return res % mod;

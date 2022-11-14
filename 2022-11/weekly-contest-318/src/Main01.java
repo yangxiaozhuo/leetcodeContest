@@ -1,5 +1,11 @@
 import java.util.Arrays;
 
+/**
+ * 2460. 对数组执行操作
+ *
+ * @author yangxiaozhuo
+ * @date 2022/11/06
+ */
 public class Main01 {
     public static void main(String[] args) {
         int[] nums = {1, 2, 2};

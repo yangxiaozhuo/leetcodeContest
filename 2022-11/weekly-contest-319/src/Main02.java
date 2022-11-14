@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 /**
  * 6234. 最小公倍数为 K 的子数组数目
+ * 
  * @author yangxiaozhuo
  * @date 2022/11/13
  */

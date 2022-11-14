@@ -4,14 +4,15 @@ import java.util.HashMap;
 
 /**
  * 6240. 树上最大得分和路径
+ *
  * @author yangxiaozhuo
  * @date 2022/11/12
  */
 public class Main03 {
     public static void main(String[] args) {
         Solution solution = new Solution();
-        int[][] ints = new int[][]{{0,2},{1,4},{1,6},{2,4},{3,6},{3,7},{5,7}};
-        int[] amount = new int[]{-6896,-1216,-1208,-1108,1606,-7704,-9212,-8258};
+        int[][] ints = new int[][]{{0, 2}, {1, 4}, {1, 6}, {2, 4}, {3, 6}, {3, 7}, {5, 7}};
+        int[] amount = new int[]{-6896, -1216, -1208, -1108, 1606, -7704, -9212, -8258};
         System.out.println(solution.mostProfitablePath(ints, 4, amount));
     }
 //    [[0,2],[1,4],[1,6],[2,4],[3,6],[3,7],[5,7]]
