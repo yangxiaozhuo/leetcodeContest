@@ -16,7 +16,33 @@ public class Main02 {
         long end = System.currentTimeMillis();
         System.out.println(end - l);
     }
-     static class Solution {
+    static class Solution {
+        public int subarrayLCM(int[] nums, int k) {
+            int res = 0;
+            for (int i = 0; i < nums.length; i++) {
+                for (int j = i; j < nums.length; j++) {
+                    int LCM = 1;
+                    LCM = lcm(LCM, nums[j]);
+                    if(LCM > k) {
+                        break;
+                    }
+                    if(LCM == k) {
+                        res++;
+                    }
+                }
+            }
+            return res;
+        }
+
+        private int lcm(int lcm, int num) {
+            return lcm * num / bac(lcm, num);
+        }
+
+        private int bac(int lcm, int num) {
+            return num == 0 ? lcm : bac(num, lcm % num);
+        }
+    }
+     static class Solution2 {
         static int[][] dp = new int[1001][1001];
         public int subarrayLCM(int[] nums, int k) {
             int res = 0;
