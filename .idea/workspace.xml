@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34fd4337-dd26-41ff-8a5b-9450befff402" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2022-11/biweekly-contest-91/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-11/biweekly-contest-91/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-11/biweekly-contest-91/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-11/biweekly-contest-91/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-11/daily-question/src/two/Main13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-11/weekly-contest-319/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-11/weekly-contest-319/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-11/weekly-contest-319/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-11/weekly-contest-319/src/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-11/biweekly-contest-92/src/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-11/biweekly-contest-92/src/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-11/biweekly-contest-92/src/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-11/biweekly-contest-92/src/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-11/daily-question/src/three/Main25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2022-11/daily-question/src/three/Main26.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2022-11/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-11/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2022-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2022-11/.idea/workspace.xml" afterDir="false" />
@@ -109,6 +106,7 @@
       <workItem from="1668138331271" duration="63000" />
       <workItem from="1668138715785" duration="1079000" />
       <workItem from="1668331260188" duration="150000" />
+      <workItem from="1669481391607" duration="204000" />
     </task>
     <servers />
   </component>
