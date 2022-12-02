@@ -4,6 +4,8 @@ import java.util.Collections;
 import java.util.List;
 
 /**
+ * 2476. 二叉搜索树最近节点查询
+ *
  * @author yangxiaozhuo
  * @date 2022/11/20
  */

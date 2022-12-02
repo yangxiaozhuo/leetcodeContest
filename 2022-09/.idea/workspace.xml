@@ -19,7 +19,53 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f64f160f-e480-448e-85f2-460a1742b1a2" name="Default Changelist" comment="" />
+    <list default="true" id="f64f160f-e480-448e-85f2-460a1742b1a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/three/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022-11/daily-question/src/three/Main29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022-11/daily-question/src/three/Main30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/biweekly-contest-92/src/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/biweekly-contest-92/src/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/biweekly-contest-92/src/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/biweekly-contest-92/src/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/biweekly-contest-92/src/Main03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/biweekly-contest-92/src/Main03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/weekly-contest-320/src/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-320/src/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/weekly-contest-320/src/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-320/src/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/weekly-contest-320/src/Main04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-320/src/Main04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/weekly-contest-321/src/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-321/src/Main01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/weekly-contest-321/src/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-321/src/Main02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/weekly-contest-321/src/Main03.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-321/src/Main03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2022-11/weekly-contest-321/src/Main04.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2022-11/weekly-contest-321/src/Main04.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,10 +102,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="two" />
+      <recent name="three" />
+      <recent name="one" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,6 +125,8 @@
       <updated>1668138402327</updated>
       <workItem from="1668138403573" duration="1395000" />
       <workItem from="1668150103438" duration="403000" />
+      <workItem from="1669872146346" duration="1712000" />
+      <workItem from="1669874223847" duration="1620000" />
     </task>
     <servers />
   </component>
@@ -90,14 +146,27 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1669872154910">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.816/-1920.0.1920.1032@0.0.1536.816" timestamp="1669872154910" />
+    <state x="544" y="275" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1669874080010">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="544" y="275" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.816/-1920.0.1920.1032@0.0.1536.816" timestamp="1669874080010" />
+    <state x="727" y="168" key="FileChooserDialogImpl" timestamp="1669875846524">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="727" y="168" key="FileChooserDialogImpl/0.0.1536.816/-1920.0.1920.1032@0.0.1536.816" timestamp="1669875846524" />
     <state x="-1627" y="46" key="SettingsEditor" timestamp="1668138490847">
       <screen x="-2560" y="-156" width="2048" height="1104" />
     </state>
     <state x="-1627" y="46" key="SettingsEditor/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1668138490847" />
-    <state x="356" y="37" key="new project wizard" timestamp="1668139775650">
+    <state x="356" y="37" key="new project wizard" timestamp="1669875857571">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="-1698" y="81" key="new project wizard/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1668138513129" />
     <state x="356" y="37" key="new project wizard/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1668139775650" />
+    <state x="356" y="37" key="new project wizard/0.0.1536.816/-1920.0.1920.1032@0.0.1536.816" timestamp="1669875857571" />
   </component>
 </project>

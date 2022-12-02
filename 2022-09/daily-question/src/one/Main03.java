@@ -1,0 +1,25 @@
+package one;
+
+import java.util.Arrays;
+
+/**
+ * 646. 最长数对链
+ *
+ * @author yangxiaozhuo
+ * @date 2022/09/03
+ */
+public class Main03 {
+    class Solution {
+        public int findLongestChain(int[][] pairs) {
+            Arrays.sort(pairs,(a, b)-> a[1]-b[1]);
+            int res = 1,tmp = pairs[0][1];
+            for(int i = 1;i < pairs.length;i++){
+                if(pairs[i][0] > tmp){
+                    res++;
+                    tmp = pairs[i][1];
+                }
+            }
+            return res;
+        }
+    }
+}

@@ -2,12 +2,14 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
+ * 2488. 统计中位数为 K 的子数组
+ *
  * @author yangxiaozhuo
  * @date 2022/11/27
  */
 public class Main04 {
     public static void main(String[] args) {
-        int[] ints = new int[]{5,19,11,15,13,16,4,6,2,7,10,8,18,20,1,3,17,9,12,14};  //6 -13
+        int[] ints = new int[]{5, 19, 11, 15, 13, 16, 4, 6, 2, 7, 10, 8, 18, 20, 1, 3, 17, 9, 12, 14};  //6 -13
 //        int[] ints = new int[]{6,2,8,7,12,4,11,5,9,1,10,3};// 5 -16
         Solution solution = new Solution();
         System.out.println(solution.countSubarrays(ints, 6));  //13
@@ -56,7 +58,7 @@ public class Main04 {
                 if (key > 1) {
                     res = res + left.getOrDefault(-key, 0) * value;
                     res = res + left.getOrDefault(-key + 1, 0) * value;
-                }else if(key == 1) {
+                } else if (key == 1) {
                     res = res + left.getOrDefault(-1, 0) * value;
                     res = res + left.getOrDefault(0, 0) * value;
                     res = res + value;
@@ -69,8 +71,8 @@ public class Main04 {
                     res = res + left.getOrDefault(-key + 1, 0) * value;
                 }
             }
-            res = res + left.getOrDefault(1,0);
-            res = res + left.getOrDefault(0,0);
+            res = res + left.getOrDefault(1, 0);
+            res = res + left.getOrDefault(0, 0);
             return res + 1;
         }
     }
