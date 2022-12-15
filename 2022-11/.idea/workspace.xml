@@ -19,56 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="02403efd-51cf-437e-8598-d1b81570d8a1" name="Default Changelist" comment="11月24日每日一题">
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/Main10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/one/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/Main30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/three/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/Main20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-09/daily-question/src/two/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily-question/src/three/Main30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-12/daily-question/src/one/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2022-12/daily-question/src/one/Main02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biweekly-contest-92/src/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/biweekly-contest-92/src/Main01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biweekly-contest-92/src/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/biweekly-contest-92/src/Main02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biweekly-contest-92/src/Main03.java" beforeDir="false" afterPath="$PROJECT_DIR$/biweekly-contest-92/src/Main03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/biweekly-contest-92/src/Main04.java" beforeDir="false" afterPath="$PROJECT_DIR$/biweekly-contest-92/src/Main04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-320/src/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-contest-320/src/Main01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-320/src/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-contest-320/src/Main02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-320/src/Main04.java" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-contest-320/src/Main04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-321/src/Main01.java" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-contest-321/src/Main01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-321/src/Main02.java" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-contest-321/src/Main02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-321/src/Main03.java" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-contest-321/src/Main03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-321/src/Main04.java" beforeDir="false" afterPath="$PROJECT_DIR$/weekly-contest-321/src/Main04.java" afterDir="false" />
-    </list>
+    <list default="true" id="02403efd-51cf-437e-8598-d1b81570d8a1" name="Default Changelist" comment="11月24日每日一题" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,19 +115,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main04" />
@@ -232,6 +170,7 @@
       <workItem from="1669810025247" duration="1569000" />
       <workItem from="1669870941977" duration="1182000" />
       <workItem from="1669994037837" duration="1854000" />
+      <workItem from="1670119220926" duration="66000" />
     </task>
     <task id="LOCAL-00001" summary="11月6号每日一题">
       <created>1667728116802</created>
