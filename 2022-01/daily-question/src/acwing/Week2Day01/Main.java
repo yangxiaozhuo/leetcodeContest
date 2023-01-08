@@ -1,4 +1,4 @@
-package acwing.Day02;
+package acwing.Week2Day01;
 
 import java.io.BufferedReader;
 import java.io.IOException;

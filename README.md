@@ -4,11 +4,16 @@ The code of weekly-contest and biweekly-contest of Leetcode.
 The code of the daily question from 2022.09.01 to the present.
 
 
-内容包括从2020年8月1日至今的周赛、双周赛和每日一题，目前更新到2022年9月1日-2022年11月27日内容。
+内容包括从2020年8月1日至今的周赛、双周赛和每日一题，目前更新到2022年9月1日-2023年1月9日内容。
 
 
 |     日期时间     |          比赛       | ac题数 |     rank in China      |      rank in the world       |
 |:--------------:|:------------------:|:-----:|:----------------------:|:-----------------------------:|
+|2023-01-08 10:30|  weekly-contest-327|**4**/4|**98**   / 4518 in China|**218 **/ 21918 in the world   |
+|2023-01-07 22:30|biweekly-contest-095|**4**/4|**394**  / 2880 in China|**1014**/ 22070 in the world   |
+|2023-01-01 10:30|  weekly-contest-326|**4**/4|**1101** / 3873 in China|**2821**/ 16183 in the world   |
+|2022-12-24 22:30|biweekly-contest-094|**2**/4|**795**  / 2298 in China|**2864**/ 16930 in the world   |
+|2022-12-18 10:30|  weekly-contest-324|**3**/4|**1095** / 4167 in China|**2908**/ 18345 in the world   |
 |2022-12-11 10:30|  weekly-contest-323|**4**/4|**484**  / 4671 in China|**1228**/ 17633 in the world   |
 |2022-12-10 22:30|biweekly-contest-093|**3**/4|**249**  / 2929 in China|** 675**/ 17080 in the world   |
 |2022-12-04 10:30|  weekly-contest-322|**3**/4|**644**  / 5085 in China|**1632**/ 19626 in the world   |
