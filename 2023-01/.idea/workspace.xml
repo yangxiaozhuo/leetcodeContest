@@ -20,31 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ba6f27f-f0c1-43d1-ad33-0e3aa8386d5b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/biweekly-contest-95/src/Main01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biweekly-contest-95/src/Main02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biweekly-contest-95/src/Main03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/biweekly-contest-95/src/Main04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/Main421.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week1Day01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week1Day02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week1Day03/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week2Day01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week2Day02/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week2Day03/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week2Day04/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week2Day05/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/acwing/Week3Day01/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/one/Main01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/one/Main02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/one/Main03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/one/Main04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/one/Main05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/one/Main06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/daily-question/src/one/Main07.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-327/src/Main01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-327/src/Main02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-327/src/Main03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/weekly-contest-327/src/Main04.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/acwing/Week3Day02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/one/Main10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/daily-question/src/two/Main11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +64,6 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../2023-01" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -157,15 +137,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -197,7 +175,7 @@
       <workItem from="1673144591253" duration="5191000" />
       <workItem from="1673167908204" duration="6544000" />
       <workItem from="1673318751749" duration="2257000" />
-      <workItem from="1673409414114" duration="3735000" />
+      <workItem from="1673409414114" duration="3602000" />
     </task>
     <servers />
   </component>
@@ -225,29 +203,25 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="499" y="155" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.816@0.0.1536.816" timestamp="1673147199351" />
-    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1673425502523">
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1673420523373">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1673425502523" />
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom" timestamp="1673425503591">
-      <screen x="0" y="0" width="1536" height="816" />
-    </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673425503591" />
+    <state width="1493" height="209" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1673420523373" />
     <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1673326188636" />
-    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1673425503591">
+    <state width="1493" height="209" key="GridCell.Tab.0.center" timestamp="1673420523373">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1673425503591" />
+    <state width="1493" height="209" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1673420523373" />
     <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1673326188635" />
-    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1673425503591">
+    <state width="1493" height="209" key="GridCell.Tab.0.left" timestamp="1673420523372">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1673425503591" />
+    <state width="1493" height="209" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1673420523372" />
     <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1673326188635" />
-    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1673425503591">
+    <state width="1493" height="209" key="GridCell.Tab.0.right" timestamp="1673420523373">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1673425503591" />
+    <state width="1493" height="209" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1673420523373" />
     <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1673326188636" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1673175484957">
       <screen x="0" y="0" width="1536" height="816" />
@@ -269,10 +243,10 @@
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1673175484957" />
     <state width="986" height="313" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1672846632148" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1673425460985">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1673144446313">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1673425460985" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1673144446313" />
     <state x="93" y="93" width="1350" height="630" key="dock-window-1" timestamp="1673144499954">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
