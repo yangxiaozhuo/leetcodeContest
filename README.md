@@ -9,6 +9,8 @@ The code of the daily question from 2022.09.01 to the present.
 
 |     日期时间     |          比赛       | ac题数 |     rank in China      |      rank in the world       |
 |:--------------:|:------------------:|:-----:|:----------------------:|:-----------------------------:|
+|2023-01-21 22:30|biweekly-contest-096|**3**/4|**254**  / 2103 in China|**692 **/ 20946 in the world   |
+|2023-01-15 10:30|  weekly-contest-328|**3**/4|**430**  / 4776 in China|**1021**/ 22237 in the world   |
 |2023-01-08 10:30|  weekly-contest-327|**4**/4|**98**   / 4518 in China|**218 **/ 21918 in the world   |
 |2023-01-07 22:30|biweekly-contest-095|**4**/4|**394**  / 2880 in China|**1014**/ 22070 in the world   |
 |2023-01-01 10:30|  weekly-contest-326|**4**/4|**1101** / 3873 in China|**2821**/ 16183 in the world   |
