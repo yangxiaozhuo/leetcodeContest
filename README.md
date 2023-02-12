@@ -6,18 +6,20 @@ The code of the daily question from 2022.09.01 to the present.
 
 内容包括从2020年8月1日至今的周赛、双周赛和每日一题，目前更新到2022年9月1日-2023年1月9日内容。
 
+[可前往clist主页查看更多详细信息(https://clist.by/coder/yangxiaozhuo/)](https://clist.by/coder/yangxiaozhuo/)
+
 
 |     日期时间     |          比赛       | ac题数 |     rank in China      |      rank in the world       |
 |:--------------:|:------------------:|:-----:|:----------------------:|:-----------------------------:|
-|2023-01-21 22:30|biweekly-contest-096|**3**/4|**254**  / 2103 in China|**692 **/ 20946 in the world   |
+|2023-01-21 22:30|biweekly-contest-096|**3**/4|**254**  / 2103 in China|**692** / 20946 in the world   |
 |2023-01-15 10:30|  weekly-contest-328|**3**/4|**430**  / 4776 in China|**1021**/ 22237 in the world   |
-|2023-01-08 10:30|  weekly-contest-327|**4**/4|**98**   / 4518 in China|**218 **/ 21918 in the world   |
+|2023-01-08 10:30|  weekly-contest-327|**4**/4|**98**   / 4518 in China|**218** / 21918 in the world   |
 |2023-01-07 22:30|biweekly-contest-095|**4**/4|**394**  / 2880 in China|**1014**/ 22070 in the world   |
 |2023-01-01 10:30|  weekly-contest-326|**4**/4|**1101** / 3873 in China|**2821**/ 16183 in the world   |
 |2022-12-24 22:30|biweekly-contest-094|**2**/4|**795**  / 2298 in China|**2864**/ 16930 in the world   |
 |2022-12-18 10:30|  weekly-contest-324|**3**/4|**1095** / 4167 in China|**2908**/ 18345 in the world   |
 |2022-12-11 10:30|  weekly-contest-323|**4**/4|**484**  / 4671 in China|**1228**/ 17633 in the world   |
-|2022-12-10 22:30|biweekly-contest-093|**3**/4|**249**  / 2929 in China|** 675**/ 17080 in the world   |
+|2022-12-10 22:30|biweekly-contest-093|**3**/4|**249**  / 2929 in China|**675** / 17080 in the world   |
 |2022-12-04 10:30|  weekly-contest-322|**3**/4|**644**  / 5085 in China|**1632**/ 19626 in the world   |
 |2022-11-27 10:30|  weekly-contest-321|**4**/4|**639**  / 5115 in China|**1400**/ 17826 in the world   |
 |2022-11-26 22:30|biweekly-contest-092|**3**/4|**621**  / 3055 in China|**1348**/ 15664 in the world   |

@@ -1,74 +1,48 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.HashSet;
 
 /**
  * @author yangxiaozhuo
  * @date 2023/01/20
  */
 public class Main {
+    static int mod = 998244353;
+    static long[] dp2 = new long[200010];
+    static long[] dp11 = new long[200010];
+
     public static void main(String[] args) throws IOException {
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        int n = Integer.parseInt(in.readLine());
-        String[] s = in.readLine().split(" ");
-        int[] value = new int[n];
-        for (int i = 0; i < s.length; i++) {
-            value[i] = Integer.parseInt(s[i]);
+        String s = in.readLine();
+        int len = s.length();
+        dp2[0] = 1;
+        dp2[1] = 2;
+        dp11[0] = 1;
+        dp11[1] = 11;
+        for (int i = 2; i < dp2.length; i++) {
+            dp2[i] = fastMi(i, dp2);
+            dp11[i] = fastMi(i, dp11);
         }
-        char[][] graph = new char[n][n];
-        for (int i = 0; i < graph.length; i++) {
-            graph[i] = in.readLine().toCharArray();
+        long res = 0;
+        for (int i = 0; i < len; i++) {
+            int num = s.charAt(i) - '0';
+            res = res + (dp2[i] * num * dp11[len - i - 1]) % mod;
+            res = res % mod;
         }
-        int T = Integer.parseInt(in.readLine());
-        long[][][] dp = new long[n][n][2];
-        fun(dp, graph, value);
-        while (T-- > 0) {
-            s = in.readLine().split(" ");
-            int a = Integer.parseInt(s[0]) - 1;
-            int b = Integer.parseInt(s[1]) - 1;
-            if (dp[a][b][1] != 0) {
-                System.out.println(dp[a][b][1] + value[a]);
-            } else {
-                System.out.println("Impossible");
-            }
-        }
+        System.out.println(res);
     }
 
-    private static void fun(long[][][] dp, char[][] graph, int[] value) {
-        for (int i = 0; i < graph.length; i++) {
-            for (int j = 0; j < graph.length; j++) {
-                if (graph[i][j] == 'Y') {
-                    dp[i][j][1] = value[j];
-                    dp[i][j][0] = 1;
-                }
-            }
+    private static long fastMi(int n, long[] dp) {
+        if (dp[n] != 0) {
+            return dp[n];
         }
-        for (int i = 1; i < graph.length; i++) {
-            genxin(dp, graph, value, i);
+        if (n % 2 == 0) {
+            long temp = fastMi(n / 2, dp);
+            dp[n] = (temp * temp) % mod;
+        } else {
+            long temp = fastMi(n / 2, dp);
+            dp[n] = ((temp * temp) % mod * dp[1]) % mod;
         }
-    }
-
-    private static void genxin(long[][][] dp, char[][] graph, int[] value, int depth) {
-        for (int i = 0; i < graph.length; i++) {
-            long[] temp = new long[graph.length];
-            Arrays.fill(temp, -1);
-            for (int j = 0; j < graph.length; j++) {
-                if (dp[i][j][0] == depth) {
-                    for (int k = 0; k < graph.length; k++) {
-                        if (dp[j][k][0] == 1) {
-                            temp[k] = Math.max(temp[k], dp[i][j][1]  + dp[j][k][1]);
-                        }
-                    }
-                }
-            }
-            for (int j = 0; j < graph.length; j++) {
-                if (temp[j] != -1 && dp[i][j][0] == 0) {
-                    dp[i][j][0] = depth + 1;
-                    dp[i][j][1] = temp[j];
-                }
-            }
-        }
+        return dp[n];
     }
 }
