@@ -20,36 +20,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edbfa3a4-8c63-4f50-a776-ac15a739f97a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2023-01/weekly-contest-330/src/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-01/weekly-contest-330/src/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-01/weekly-contest-330/src/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-01/weekly-contest-330/src/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-97/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-97/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-97/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-97/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/other/Main118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/other/Main1314.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/other/Main139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/other/Main146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/other/Main413.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/text01/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/text01/Main07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/text01/Main08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/text01/Main09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/text01/Main10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dailt-question/src/text01/Main12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-331/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-331/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-331/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-331/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-332/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-332/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-332/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-332/src/text04/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2023-01/daily-question/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2023-01/daily-question/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly-contest-98/src/text01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly-contest-98/src/text02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly-contest-98/src/text03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/biweekly-contest-98/src/text04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailt-question/src/DebugInvocationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailt-question/src/JdkProxyFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailt-question/src/text01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dailt-question/src/text01/Main19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_01前缀和/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_01前缀和/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_01前缀和/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_01前缀和/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_01前缀和/Main05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_02差分/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_02差分/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_02差分/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_04双指针/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_04双指针/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_04双指针/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_05递推/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_05递推/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_05递推/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_05递推/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week01_05递推/Main05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week02_01递归/Main01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week02_01递归/Main02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week02_01递归/Main03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lanqiao/src/Week02_01递归/Main04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-333/src/text01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-333/src/text02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-333/src/text03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-333/src/text04/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dailt-question/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/dailt-question/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +83,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2LAB7skGH9jiYjFt8Lpv173Bi7t" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,51 +94,26 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lanqiao" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15332031" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="text03.Main" />
-      <module name="weekly-contest-332" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="text03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="text04.Main" />
-      <module name="weekly-contest-332" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="text04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="dailt-question" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="text02.Main" />
-      <module name="weekly-contest-332" />
+    <configuration name="Main01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week02_01递归.Main01" />
+      <module name="lanqiao" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="text02.*" />
+          <option name="PATTERN" value="Week02_01递归.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,37 +121,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main146" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.Main146" />
+    <configuration name="Main04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week01_05递推.Main04" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week01_05递推.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week01_05递推.Main05" />
+      <module name="lanqiao" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week01_05递推.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text01.Main" />
       <module name="dailt-question" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main146" />
-        <item itemvalue="Application.Main (2)" />
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main01" />
+        <item itemvalue="Application.Main05" />
+        <item itemvalue="Application.Main04" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +187,27 @@
       <workItem from="1676006546131" duration="931000" />
       <workItem from="1676164364268" duration="14214000" />
       <workItem from="1676185528456" duration="9208000" />
+      <workItem from="1676287335126" duration="910000" />
+      <workItem from="1676344594007" duration="594000" />
+      <workItem from="1676428201812" duration="837000" />
+      <workItem from="1676507701108" duration="14658000" />
+      <workItem from="1676538839792" duration="3323000" />
+      <workItem from="1676605482564" duration="6793000" />
+      <workItem from="1676683223363" duration="4540000" />
+      <workItem from="1676701233472" duration="3479000" />
+      <workItem from="1676716642391" duration="11344000" />
+      <workItem from="1676772675417" duration="6288000" />
+      <workItem from="1676784454479" duration="590000" />
+      <workItem from="1676788796253" duration="178000" />
+      <workItem from="1676789127237" duration="1068000" />
+      <workItem from="1676857850486" duration="8875000" />
+      <workItem from="1676866999314" duration="423000" />
+      <workItem from="1676867472581" duration="21000" />
+      <workItem from="1676959631503" duration="3871000" />
+      <workItem from="1677029789976" duration="10820000" />
+      <workItem from="1677204800482" duration="3913000" />
+      <workItem from="1677321817674" duration="5622000" />
+      <workItem from="1677469462995" duration="4064000" />
     </task>
     <servers />
   </component>
@@ -216,68 +235,80 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="405" y="0" key="#Project_Structure/0.0.1536.816@0.0.1536.816" timestamp="1675303893819" />
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1677469975542">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="574" y="114" key="#com.intellij.ide.util.MemberChooser/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677469975542" />
     <state x="544" y="275" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1676170295096">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="544" y="275" width="448" height="272" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676170295096" />
-    <state width="1493" height="263" key="GridCell.Tab.0.bottom" timestamp="1676202376288">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1676867492679">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="2005" height="419" key="GridCell.Tab.0.bottom/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1676179555887" />
-    <state width="1493" height="263" key="GridCell.Tab.0.bottom/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676202376288" />
-    <state width="1493" height="295" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675877957111" />
-    <state width="1493" height="263" key="GridCell.Tab.0.center" timestamp="1676202376288">
+    <state x="549" y="163" key="FileChooserDialogImpl/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676867492679" />
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom" timestamp="1677498489468">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="2005" height="419" key="GridCell.Tab.0.center/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1676179555887" />
-    <state width="1493" height="263" key="GridCell.Tab.0.center/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676202376288" />
-    <state width="1493" height="295" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1675877957110" />
-    <state width="1493" height="263" key="GridCell.Tab.0.left" timestamp="1676202376288">
+    <state width="2005" height="207" key="GridCell.Tab.0.bottom/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1677471664228" />
+    <state width="1493" height="240" key="GridCell.Tab.0.bottom/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677498489468" />
+    <state width="1493" height="327" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676779010169" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center" timestamp="1677498489468">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="2005" height="419" key="GridCell.Tab.0.left/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1676179555887" />
-    <state width="1493" height="263" key="GridCell.Tab.0.left/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676202376288" />
-    <state width="1493" height="295" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1675877957110" />
-    <state width="1493" height="263" key="GridCell.Tab.0.right" timestamp="1676202376288">
+    <state width="2005" height="207" key="GridCell.Tab.0.center/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1677471664227" />
+    <state width="1493" height="240" key="GridCell.Tab.0.center/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677498489468" />
+    <state width="1493" height="327" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1676779010168" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left" timestamp="1677498489468">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="2005" height="419" key="GridCell.Tab.0.right/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1676179555887" />
-    <state width="1493" height="263" key="GridCell.Tab.0.right/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676202376288" />
-    <state width="1493" height="295" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1675877957110" />
-    <state width="1493" height="263" key="GridCell.Tab.1.bottom" timestamp="1676202376289">
+    <state width="2005" height="207" key="GridCell.Tab.0.left/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1677471664227" />
+    <state width="1493" height="240" key="GridCell.Tab.0.left/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677498489468" />
+    <state width="1493" height="327" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1676779010168" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right" timestamp="1677498489468">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="2005" height="262" key="GridCell.Tab.1.bottom/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1676179463392" />
-    <state width="1493" height="263" key="GridCell.Tab.1.bottom/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676202376289" />
-    <state width="1493" height="295" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1675877957112" />
-    <state width="1493" height="263" key="GridCell.Tab.1.center" timestamp="1676202376289">
+    <state width="2005" height="207" key="GridCell.Tab.0.right/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1677471664228" />
+    <state width="1493" height="240" key="GridCell.Tab.0.right/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677498489468" />
+    <state width="1493" height="327" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1676779010169" />
+    <state width="1493" height="240" key="GridCell.Tab.1.bottom" timestamp="1677498489469">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="2005" height="262" key="GridCell.Tab.1.center/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1676179463392" />
-    <state width="1493" height="263" key="GridCell.Tab.1.center/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676202376289" />
-    <state width="1493" height="295" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1675877957111" />
-    <state width="1493" height="263" key="GridCell.Tab.1.left" timestamp="1676202376288">
+    <state width="1478" height="252" key="GridCell.Tab.1.bottom/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1677035534422" />
+    <state width="1493" height="240" key="GridCell.Tab.1.bottom/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677498489469" />
+    <state width="1493" height="327" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1676779010169" />
+    <state width="1493" height="240" key="GridCell.Tab.1.center" timestamp="1677498489468">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="2005" height="262" key="GridCell.Tab.1.left/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1676179463392" />
-    <state width="1493" height="263" key="GridCell.Tab.1.left/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676202376288" />
-    <state width="1493" height="295" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1675877957111" />
-    <state width="1493" height="263" key="GridCell.Tab.1.right" timestamp="1676202376289">
+    <state width="1478" height="252" key="GridCell.Tab.1.center/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1677035534422" />
+    <state width="1493" height="240" key="GridCell.Tab.1.center/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677498489468" />
+    <state width="1493" height="327" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1676779010169" />
+    <state width="1493" height="240" key="GridCell.Tab.1.left" timestamp="1677498489468">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="2005" height="262" key="GridCell.Tab.1.right/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1676179463392" />
-    <state width="1493" height="263" key="GridCell.Tab.1.right/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676202376289" />
-    <state width="1493" height="295" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1675877957112" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1676166253430">
+    <state width="1478" height="252" key="GridCell.Tab.1.left/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1677035534422" />
+    <state width="1493" height="240" key="GridCell.Tab.1.left/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677498489468" />
+    <state width="1493" height="327" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1676779010169" />
+    <state width="1493" height="240" key="GridCell.Tab.1.right" timestamp="1677498489468">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676166253430" />
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1675505106479" />
-    <state x="356" y="37" key="new project wizard" timestamp="1676166251075">
+    <state width="1478" height="252" key="GridCell.Tab.1.right/-2560.-156.2048.1104/0.0.1536.816@-2560.-156.2048.1104" timestamp="1677035534422" />
+    <state width="1493" height="240" key="GridCell.Tab.1.right/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677498489468" />
+    <state width="1493" height="327" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1676779010169" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1676772751142">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="356" y="37" key="new project wizard/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676166251075" />
-    <state x="356" y="37" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1675933715819" />
+    <state x="249" y="0" key="SettingsEditor/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1676713911143" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1676772751142" />
+    <state x="468" y="111" width="600" height="594" key="find.popup" timestamp="1676964463143">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="468" y="111" width="600" height="594" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1676964463143" />
+    <state x="356" y="37" key="new project wizard" timestamp="1677890594097">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="356" y="37" key="new project wizard/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1677890594097" />
+    <state x="356" y="37" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1676772749567" />
     <state x="464" y="164" key="refactoring.ChangeSignatureDialog" timestamp="1675528050890">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -379,6 +410,101 @@
           <url>file://$PROJECT_DIR$/weekly-contest-332/src/text04/Main.java</url>
           <line>26</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_02差分/Main02.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_02差分/Main02.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main01.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main01.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main01.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main02.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main02.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_03二分/Main03.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_05递推/Main01.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/biweekly-contest-98/src/text02/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/biweekly-contest-98/src/text02/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/biweekly-contest-98/src/text04/Main.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/biweekly-contest-98/src/text04/Main.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/biweekly-contest-98/src/text04/Main.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/weekly-contest-333/src/text03/Main.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/weekly-contest-333/src/text03/Main.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_05递推/Main03.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lanqiao/src/Week01_05递推/Main03.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/dailt-question/src/text01/Main.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="114" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

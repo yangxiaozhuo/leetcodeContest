@@ -3,9 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/biweekly-contest-97/biweekly-contest-97.iml" filepath="$PROJECT_DIR$/biweekly-contest-97/biweekly-contest-97.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biweekly-contest-98/biweekly-contest-98.iml" filepath="$PROJECT_DIR$/biweekly-contest-98/biweekly-contest-98.iml" />
       <module fileurl="file://$PROJECT_DIR$/dailt-question/dailt-question.iml" filepath="$PROJECT_DIR$/dailt-question/dailt-question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lanqiao/lanqiao.iml" filepath="$PROJECT_DIR$/lanqiao/lanqiao.iml" />
       <module fileurl="file://$PROJECT_DIR$/weekly-contest-331/weekly-contest-331.iml" filepath="$PROJECT_DIR$/weekly-contest-331/weekly-contest-331.iml" />
       <module fileurl="file://$PROJECT_DIR$/weekly-contest-332/weekly-contest-332.iml" filepath="$PROJECT_DIR$/weekly-contest-332/weekly-contest-332.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekly-contest-333/weekly-contest-333.iml" filepath="$PROJECT_DIR$/weekly-contest-333/weekly-contest-333.iml" />
     </modules>
   </component>
 </project>
