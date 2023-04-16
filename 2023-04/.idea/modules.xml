@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2023-04.iml" filepath="$PROJECT_DIR$/2023-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biweekly-contest-101/biweekly-contest-101.iml" filepath="$PROJECT_DIR$/biweekly-contest-101/biweekly-contest-101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/biweekly-contest-102/biweekly-contest-102.iml" filepath="$PROJECT_DIR$/biweekly-contest-102/biweekly-contest-102.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekly-contest-339/weekly-contest-339.iml" filepath="$PROJECT_DIR$/weekly-contest-339/weekly-contest-339.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekly-contest-340/weekly-contest-340.iml" filepath="$PROJECT_DIR$/weekly-contest-340/weekly-contest-340.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weekly-contest-341/weekly-contest-341.iml" filepath="$PROJECT_DIR$/weekly-contest-341/weekly-contest-341.iml" />
+    </modules>
+  </component>
+</project>

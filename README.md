@@ -3,8 +3,11 @@ The code of weekly-contest and biweekly-contest of Leetcode.
 
 The code of the daily question from 2022.09.01 to the present.
 
+内容包括从2020年8月1日至今的周赛、双周赛和每日一题，目前更新到2022年9月1日-2023年4月16日内容。
 
-内容包括从2020年8月1日至今的周赛、双周赛和每日一题，目前更新到2022年9月1日-2023年1月9日内容。
+已于2023年4月初停止每日一题。
+
+周赛、双周赛还会继续更新。
 
 [可前往clist主页查看更多详细信息(https://clist.by/coder/yangxiaozhuo/)](https://clist.by/coder/yangxiaozhuo/)
 
@@ -44,3 +47,5 @@ The code of the daily question from 2022.09.01 to the present.
 |2022-09-11 10:30|  weekly-contest-310|**3**/4|**1001** / 6081 in China|**2652**/ 26821 in the world   |
 |2022-09-04 10:30|  weekly-contest-309|**3**/4|**1829** / 7972 in China|**4598**/ 25750 in the world   |
 |2022-09-03 22:30|biweekly-contest-086|**2**/4|**1919** / 4401 in China|**7043**/ 26069 in the world   |
+
+
