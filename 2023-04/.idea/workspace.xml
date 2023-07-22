@@ -19,58 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b8ca9d4-d89b-47be-90de-77dd13a0025d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../2023-03/biweekly-contest-99/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/biweekly-contest-99/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/biweekly-contest-99/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/biweekly-contest-99/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/baidu01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/baidu02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/baidu03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/mayi01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/mayi02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/mayi03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/other/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/other/Main17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/test01/Main05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/test01/Main10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/test01/Main16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/test01/Main19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/daily-question/src/test01/Main20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/lanqiao/src/a/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/lanqiao/src/b/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/weekly-contest-335/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/weekly-contest-335/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/weekly-contest-335/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/weekly-contest-335/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/weekly-contest-338/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/weekly-contest-338/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/weekly-contest-338/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../2023-03/weekly-contest-338/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-101/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-101/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-101/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-101/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-102/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-102/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-102/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/biweekly-contest-102/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-339/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-339/src/test/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-339/src/test/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-339/src/test/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-339/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-339/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-339/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-339/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-340/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-340/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-340/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-340/src/text04/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-341/src/text01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-341/src/text02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-341/src/text03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weekly-contest-341/src/text04/Main.java" afterDir="false" />
+    <list default="true" id="0b8ca9d4-d89b-47be-90de-77dd13a0025d" name="Default Changelist" comment="add: 2023-4-16">
+      <change afterPath="$PROJECT_DIR$/weekly-contest-342/src/text01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-342/src/text02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-342/src/text03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weekly-contest-342/src/text04/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +67,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="text04.Main" />
       <module name="weekly-contest-341" />
@@ -128,48 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text01.Main" />
+      <module name="weekly-contest-342" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="text01.Main" />
-      <module name="biweekly-contest-102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="text01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="text04.Main" />
-      <module name="biweekly-contest-102" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="text04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="text01.Main" />
-      <module name="weekly-contest-341" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="text01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="text02.Main" />
-      <module name="weekly-contest-341" />
+      <module name="weekly-contest-342" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="text02.*" />
@@ -180,26 +107,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text03.Main" />
+      <module name="weekly-contest-342" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="text04.Main" />
+      <module name="weekly-contest-342" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="text04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -220,8 +160,19 @@
       <workItem from="1681001354017" duration="5738000" />
       <workItem from="1681032420248" duration="257000" />
       <workItem from="1681567949924" duration="4493000" />
-      <workItem from="1681612175716" duration="4538000" />
+      <workItem from="1681612175716" duration="4620000" />
+      <workItem from="1681693267594" duration="595000" />
+      <workItem from="1682213036176" duration="6013000" />
+      <workItem from="1683251330471" duration="59000" />
     </task>
+    <task id="LOCAL-00001" summary="add: 2023-4-16">
+      <created>1681617041673</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681617041673</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,61 +192,67 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add: 2023-4-16" />
+    <option name="LAST_COMMIT_MESSAGE" value="add: 2023-4-16" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1680400556575">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="249" y="0" key="#Project_Structure/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1680400556575" />
-    <state width="1493" height="216" key="GridCell.Tab.0.bottom" timestamp="1681615701896">
+    <state x="531" y="117" key="FileChooserDialogImpl" timestamp="1683251391986">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.bottom/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681615701896" />
+    <state x="531" y="117" key="FileChooserDialogImpl/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1683251391986" />
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom" timestamp="1682230187568">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="310" key="GridCell.Tab.0.bottom/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682230187568" />
     <state width="1493" height="310" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1681572644100" />
-    <state width="1493" height="216" key="GridCell.Tab.0.center" timestamp="1681615701896">
+    <state width="1493" height="310" key="GridCell.Tab.0.center" timestamp="1682230187568">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.center/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681615701896" />
+    <state width="1493" height="310" key="GridCell.Tab.0.center/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682230187568" />
     <state width="1493" height="310" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1681572644099" />
-    <state width="1493" height="216" key="GridCell.Tab.0.left" timestamp="1681615701896">
+    <state width="1493" height="310" key="GridCell.Tab.0.left" timestamp="1682230187568">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.left/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681615701896" />
+    <state width="1493" height="310" key="GridCell.Tab.0.left/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682230187568" />
     <state width="1493" height="310" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1681572644099" />
-    <state width="1493" height="216" key="GridCell.Tab.0.right" timestamp="1681615701896">
+    <state width="1493" height="310" key="GridCell.Tab.0.right" timestamp="1682230187568">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="216" key="GridCell.Tab.0.right/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681615701896" />
+    <state width="1493" height="310" key="GridCell.Tab.0.right/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682230187568" />
     <state width="1493" height="310" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1681572644099" />
-    <state width="1493" height="310" key="GridCell.Tab.1.bottom" timestamp="1681572644100">
+    <state width="1493" height="310" key="GridCell.Tab.1.bottom" timestamp="1682230187568">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="320" key="GridCell.Tab.1.bottom/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681013022334" />
+    <state width="1493" height="310" key="GridCell.Tab.1.bottom/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682230187568" />
     <state width="1493" height="310" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1681572644100" />
-    <state width="1493" height="310" key="GridCell.Tab.1.center" timestamp="1681572644100">
+    <state width="1493" height="310" key="GridCell.Tab.1.center" timestamp="1682230187568">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="320" key="GridCell.Tab.1.center/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681013022333" />
+    <state width="1493" height="310" key="GridCell.Tab.1.center/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682230187568" />
     <state width="1493" height="310" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1681572644100" />
-    <state width="1493" height="310" key="GridCell.Tab.1.left" timestamp="1681572644100">
+    <state width="1493" height="310" key="GridCell.Tab.1.left" timestamp="1682230187568">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="320" key="GridCell.Tab.1.left/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681013022333" />
+    <state width="1493" height="310" key="GridCell.Tab.1.left/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682230187568" />
     <state width="1493" height="310" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1681572644100" />
-    <state width="1493" height="310" key="GridCell.Tab.1.right" timestamp="1681572644100">
+    <state width="1493" height="310" key="GridCell.Tab.1.right" timestamp="1682230187568">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state width="1493" height="320" key="GridCell.Tab.1.right/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681013022334" />
+    <state width="1493" height="310" key="GridCell.Tab.1.right/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682230187568" />
     <state width="1493" height="310" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1681572644100" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1681572592743">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1682213075131">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681007337969" />
+    <state x="249" y="0" key="SettingsEditor/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1682213075131" />
     <state x="249" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1681572592743" />
-    <state x="272" y="37" key="new project wizard" timestamp="1681572591414">
+    <state x="160" y="37" key="new project wizard" timestamp="1683251394235">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="160" y="37" key="new project wizard/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1681001789801" />
+    <state x="160" y="37" key="new project wizard/-2560.-156.2048.1104/0.0.1536.816@0.0.1536.816" timestamp="1683251394235" />
     <state x="272" y="37" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1681572591414" />
     <state x="464" y="164" key="refactoring.ChangeSignatureDialog" timestamp="1681614784187">
       <screen x="0" y="0" width="1536" height="816" />
@@ -389,6 +346,11 @@
           <url>file://$PROJECT_DIR$/biweekly-contest-102/src/text04/Main.java</url>
           <line>73</line>
           <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/weekly-contest-342/src/text02/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
